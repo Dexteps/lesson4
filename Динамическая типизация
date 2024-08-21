@@ -1,0 +1,14 @@
+# Первый вариант Домашнего задания.
+name = 'Любовь'
+print(name)
+age = 29
+print(age)
+age = age + 1
+print(age)
+
+# Второй вариант
+print(name)
+age = 29
+print(age)
+new_age = age + 1
+print(new_age)
